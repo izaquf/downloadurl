@@ -253,9 +253,9 @@ Commands:
 	-swf          View the list of files before downloading
 
 Examples:
-	python downloadurl.py https://example.com/files/
-	python downloadurl.py https://example.com/ -t zip rar -o myFile
-	python downloadurl.py https://example.com/ -swf
+	python3 downloadurl.py https://example.com/files/
+	python3 downloadurl.py https://example.com/ -t zip rar -o myFile
+	python3 downloadurl.py https://example.com/ -swf
 	""")
 
 def main():
