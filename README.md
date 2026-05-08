@@ -19,7 +19,7 @@ cd downloadurl
 **dependencies**
 
 ```bash
-	pip install requests beautifulsoup4
+pip install requests beautifulsoup4
 
 ```
 
